@@ -16,7 +16,7 @@ shoot = GPIO.PWM(15, 50)
 lid.start(0) # pulse off (0)
 shoot.start(0) # pulse off (0)
 
-mode = "close" # open/close
+mode = "close" # open/close 
 count = 0
 latestFlick = 0
 iterations = 0
