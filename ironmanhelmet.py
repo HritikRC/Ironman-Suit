@@ -17,7 +17,7 @@ GPIO.setmode(GPIO.BOARD)
 
 data = {"ultrasonic" : 0, "cpu" : 0, "temperature" : 0}
 
-#Ultrasonic Sensor
+#Ultrasonic Sensor 
 trigger = 32
 echo = 11
 GPIO.setup(trigger, GPIO.OUT)
