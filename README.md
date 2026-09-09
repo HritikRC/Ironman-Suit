@@ -1,7 +1,5 @@
 # Ironman-Suit
 
-<img width="307" alt="Screenshot 2026-09-09 at 13 14 15" src="https://github.com/user-attachments/assets/3a5ed168-ea54-4f50-b431-37185e446d3b" />
-
 <table>
   <tr>
     <td><img width="1440" height="812" alt="Screenshot 2026-09-09 at 13 09 31" src="https://github.com/user-attachments/assets/c0226914-b461-458b-9d0b-b0233f687ae3" />
@@ -30,3 +28,5 @@ Very successful project. A few improvements include, better AR/VR option as it t
 Check out the links below, where I explain the whole project:
 - Project Video: https://www.youtube.com/watch?v=99sshghrxXQ
 - More on this Project: https://www.youtube.com/playlist?list=PLEtXCX1lakbitqjhe9yCtUSte5JKhzxRM
+
+<img width="307" alt="Screenshot 2026-09-09 at 13 14 15" src="https://github.com/user-attachments/assets/3a5ed168-ea54-4f50-b431-37185e446d3b" />
