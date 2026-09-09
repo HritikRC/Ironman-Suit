@@ -29,4 +29,6 @@ Check out the links below, where I explain the whole project:
 - Project Video: https://www.youtube.com/watch?v=99sshghrxXQ
 - More on this Project: https://www.youtube.com/playlist?list=PLEtXCX1lakbitqjhe9yCtUSte5JKhzxRM
 
-<img width="307" alt="Screenshot 2026-09-09 at 13 14 15" src="https://github.com/user-attachments/assets/3a5ed168-ea54-4f50-b431-37185e446d3b" />
+<table>
+  <tr><td><img width="307" alt="Screenshot 2026-09-09 at 13 14 15" src="https://github.com/user-attachments/assets/3a5ed168-ea54-4f50-b431-37185e446d3b" /></td></tr>
+</table>
